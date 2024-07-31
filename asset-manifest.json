@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filtrix/static/css/main.bc77df3d.css",
+    "main.js": "/filtrix/static/js/main.6578f6f9.js",
+    "static/js/453.2e7cd684.chunk.js": "/filtrix/static/js/453.2e7cd684.chunk.js",
+    "index.html": "/filtrix/index.html",
+    "main.bc77df3d.css.map": "/filtrix/static/css/main.bc77df3d.css.map",
+    "main.6578f6f9.js.map": "/filtrix/static/js/main.6578f6f9.js.map",
+    "453.2e7cd684.chunk.js.map": "/filtrix/static/js/453.2e7cd684.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc77df3d.css",
+    "static/js/main.6578f6f9.js"
+  ]
+}
